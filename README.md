@@ -1,2 +1,3 @@
 # MIMIC_III_waveform_database
-This repository is used to demonstrate how to use MIMIC-III waveform database for continuous blood pressure estimation.
+This repository is used to demonstrate how to use MIMIC-III waveform database for continuous blood pressure estimation.\
+I am working on continuous cuffless blood pressure estimation. There are just few databases which includes long-term Electrocardiogram (ECG), Photoplethysmogram (PPG) and blood pressure (BP) waveforms. And MIMIC-III database is the largest one with several different physiological signals which is great for cuffless BP estimation research or it can be used for benchmark of researches of this kind. The one used and demonstrated here is [MIMIC-III Waveform Database Matched Subset](https://physionet.org/content/mimic3wdb-matched/1.0/). 
